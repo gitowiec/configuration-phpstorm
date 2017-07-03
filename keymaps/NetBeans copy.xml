@@ -2,6 +2,7 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="EditSourceInNewWindow" />
   <action id="NextIdentifierReloaded">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
