@@ -4,4 +4,9 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="mm" value="mail('apsikz@gmail.com', 'StrefaTradera Debug', print_r($END$, 1), 'Content-Type: text/html; charset=utf-8');" shortcut="SPACE" description="debug mail" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
