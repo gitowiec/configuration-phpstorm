@@ -1,0 +1,9 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2013/05/23/eD/KodyCECHKRAJOW/KodyCechKrajow_v3-0E.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/84c81d65_KodyCechKrajow_v3-0E.xsd" />
+    <resource url="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/ElementarneTypyDanych_v4-0E.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/fbfa8ea9_ElementarneTypyDanych_v4-0E.xsd" />
+    <resource url="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/KodyKrajow_v4-1E.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/e10800a6_KodyKrajow_v4-1E.xsd" />
+    <resource url="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/KodyUrzedowSkarbowych_v4-0E.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/dbbe0292_KodyUrzedowSkarbowych_v4-0E.xsd" />
+    <resource url="http://crd.gov.pl/xml/schematy/dziedzinowe/mf/2016/01/25/eD/DefinicjeTypy/StrukturyDanych_v4-0E.xsd" location="$USER_HOME$/.PhpStorm2018.1/system/extResources/1a06e1a6_StrukturyDanych_v4-0E.xsd" />
+  </component>
+</application>
