@@ -1,3 +1,17 @@
 <keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="Arrangement.Rule.Group.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Group.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="EditSourceInNewWindow" />
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="NextIdentifierReloaded">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="PreviousIdentifierReloaded">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="ShowContent" />
+  <action id="Vcs.ShowMessageHistory" />
 </keymap>
