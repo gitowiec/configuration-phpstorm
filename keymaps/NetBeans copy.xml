@@ -3,6 +3,7 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="ContextHelp" />
   <action id="EditSourceInNewWindow" />
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="GotoPrevElementUnderCaretUsage" />
@@ -13,5 +14,8 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="ShowContent" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="Vcs.ShowMessageHistory" />
 </keymap>
